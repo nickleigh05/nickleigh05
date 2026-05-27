@@ -38,7 +38,7 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,git,github,linux,arch,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,git,github,linux,arch,aws,vim,neovim,jetbrains,vscode&theme=dark)](https://skillicons.dev)
 
 <br/>
 
@@ -119,10 +119,3 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 </div>
 
 ---
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicholas--leigh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-nicholas-leigh)
-[![GitHub](https://img.shields.io/badge/GitHub-nickleigh05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nickleigh05)
-
-</div>
