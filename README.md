@@ -38,12 +38,9 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,git,github,linux,arch,aws,vim,neovim,jetbrains,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,git,github,linux,arch,nixos,aws,mysql,sqlite,vim,neovim,vscode,slack,jira&theme=dark)](https://skillicons.dev)
 
 <br/>
-
-![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white)
-![Scheme](https://img.shields.io/badge/Scheme-9F1853?style=for-the-badge&logoColor=white)
 
 </div>
 
