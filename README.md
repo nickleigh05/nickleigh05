@@ -50,9 +50,8 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔒 NNFS | Building neural networks from scratch — no frameworks, just math and code | Python |
-| 🔒 kalshi-terminal | Terminal interface for trading on the Kalshi prediction markets API | Python |
-| 🔒 nicksnexus | Personal website / portfolio | — |
+| [NNFS](https://github.com/nickleigh05/NNFS) | Neural network built from scratch — dense layers, ReLU, softmax, cross-entropy, Flask GUI | Python |
+| 🔒 kalshi-terminal | Terminal interface for the Kalshi prediction markets API — in progress | Python |
 | 🔒 CSE360-SP26-PROJ | Group software engineering project @ ASU | Java |
 | 🔒 LeetCode | Daily problem solving — working through DSA consistently | Python |
 
