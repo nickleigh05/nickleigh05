@@ -23,14 +23,14 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 ### 👤 About Me
 
 **Professional**
-- 🎓 B.S. Computer Science @ **Arizona State University**
+- 🎓 B.S. Computer Science @ **Arizona State University** (Expected May 2027)
 - ☁️ Interested in **cloud engineering** and **AI/ML** — specifically neural networks
 - 🧩 Working through **LeetCode** in Python → [LeetCode Repo](https://github.com/nickleigh05/LeetCode)
 
 **Personal**
-- 🏋️ Fitness
+- 🏋️ Weightlifting
 - ⚾ Baseball
-- 🌿 Fragrances
+- 🌿 Fragrances & grooming
 
 ---
 
@@ -38,7 +38,7 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,git,github,linux,arch,nixos,aws,mysql,sqlite,vim,neovim,vscode,slack,jira&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,git,github,linux,arch,aws,mysql,sqlite,vim,neovim,vscode,slack,jira,pytorch,numpy,bash&theme=dark)](https://skillicons.dev)
 
 <br/>
 
@@ -51,9 +51,11 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 | Project | Description | Stack |
 |---|---|---|
 | [NNFS](https://github.com/nickleigh05/NNFS) | Neural network built from scratch — dense layers, ReLU, softmax, cross-entropy, Flask GUI | Python |
+| [LeetCode](https://github.com/nickleigh05/LeetCode) | Daily problem solving — working through DSA consistently | Python |
 | 🔒 kalshi-terminal | Terminal interface for the Kalshi prediction markets API — in progress | Python |
 | 🔒 CSE360-SP26-PROJ | Group software engineering project @ ASU | Java |
-| 🔒 LeetCode | Daily problem solving — working through DSA consistently | Python |
+
+> 🔒 Private repository
 
 ---
 
@@ -61,8 +63,8 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 
 | Certification | Status |
 |---|---|
-| AWS Cloud Practitioner | 🔜 Coming Soon |
-| AWS Solutions Architect – Associate | 🔜 Coming Soon |
+| AWS Cloud Practitioner | 🔄 In Progress |
+| AWS Solutions Architect – Associate | 🔜 Up Next |
 
 ---
 
@@ -73,21 +75,9 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickleigh05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickleigh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=nickleigh05&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=nickleigh05&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nickleigh05&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
