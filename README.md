@@ -38,7 +38,7 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,git,github,linux,arch,aws,mysql,sqlite,vim,neovim,vscode,slack,jira,pytorch,numpy,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,git,github,linux,arch,aws,mysql,sqlite,vim,neovim,vscode,slack,jira,pytorch,bash&theme=dark)](https://skillicons.dev)
 
 <br/>
 
@@ -71,9 +71,6 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickleigh05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickleigh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nickleigh05&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
