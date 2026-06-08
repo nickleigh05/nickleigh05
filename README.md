@@ -30,7 +30,7 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 **Personal**
 - 🏋️ Weightlifting
 - ⚾ Baseball
-- 🌿 Fragrances & grooming
+- 🧠 Philosophy
 
 ---
 
@@ -38,9 +38,7 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,git,github,linux,arch,aws,mysql,sqlite,vim,neovim,vscode,slack,jira,pytorch,bash&theme=dark)](https://skillicons.dev)
-
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,bash,linux,arch,git,github,aws,pytorch,mysql,sqlite,vim,neovim,vscode,slack,jira&perline=9&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -48,10 +46,19 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 
 ### 🗂️ Projects
 
+<div align="center">
+
+<a href="https://github.com/nickleigh05/NNFS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickleigh05&repo=NNFS&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/nickleigh05/LeetCode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickleigh05&repo=LeetCode&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
 | Project | Description | Stack |
 |---|---|---|
-| [NNFS](https://github.com/nickleigh05/NNFS) | Neural network built from scratch — dense layers, ReLU, softmax, cross-entropy, Flask GUI | Python |
-| [LeetCode](https://github.com/nickleigh05/LeetCode) | Daily problem solving — working through DSA consistently | Python |
 | 🔒 kalshi-terminal | Terminal interface for the Kalshi prediction markets API — in progress | Python |
 | 🔒 CSE360-SP26-PROJ | Group software engineering project @ ASU | Java |
 
@@ -72,11 +79,15 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=nickleigh05&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
+
+<br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=nickleigh05&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nickleigh05&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nickleigh05&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nickleigh05&theme=tokyonight&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
