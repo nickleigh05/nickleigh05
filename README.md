@@ -1,9 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nick+%F0%9F%91%8B;CS+Student+%40+ASU;Cloud+%7C+AI%2FML+%7C+Low-Level+Systems)](https://git.io/typing-svg)
+# Hi... I'm Nick <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-*"Instinct, immersion, intent."*
+A computer science student at **Arizona State University** I'm interested in **Cloud** and **AI/ML**. Currently grinding LeetCode, learning more about AWS, and exploring neural networks! 
 
+Please feel free to reach out!
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicholas--leigh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-nicholas-leigh)
@@ -11,10 +12,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-nickleigh05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickleigh05@gmail.com)
 [![iCloud](https://img.shields.io/badge/iCloud-nickleigh05%40icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:nickleigh05@icloud.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=nickleigh05&style=for-the-badge&color=blueviolet&label=Profile+Views)
-
-<br/>
-
-CS student at **Arizona State University** — grinding LeetCode, learning AWS, exploring neural networks, and poking at binaries.
 
 </div>
 
@@ -24,13 +21,20 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 
 **Professional**
 - 🎓 B.S. Computer Science @ **Arizona State University** (Expected May 2027)
-- ☁️ Interested in **cloud engineering** and **AI/ML** — specifically neural networks
-- 🧩 Working through **LeetCode** in Python → [LeetCode Repo](https://github.com/nickleigh05/LeetCode)
+- ☁️ Interested in **cloud engineering** learning and working with **AWS** and **GCP**. Currently studying for the **AWS Cloud Practitioner** certification
+- 🧩 I enjoy grinding LeetCode you can check that out here: → [My LeetCode Repo](https://github.com/nickleigh05/LeetCode)
+- 🤝 Open to project collaborations
 
-**Personal**
-- 🏋️ Weightlifting
-- ⚾ Baseball
-- 🧠 Philosophy
+---
+
+### 🗂️ Projects
+
+1. [NNFS](https://github.com/nickleigh05/NNFS) — Neural network from scratch in Python
+2. [LeetCode](https://github.com/nickleigh05/LeetCode) — DSA grind in Python
+3. 🔒 kalshi-terminal — Terminal interface for the Kalshi prediction markets API
+4. 🔒 CSE360-SP26-PROJ — Group software engineering project @ ASU
+
+> 🔒 Private repository
 
 ---
 
@@ -38,69 +42,19 @@ CS student at **Arizona State University** — grinding LeetCode, learning AWS, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,bash,linux,arch,git,github,aws,pytorch,mysql,sqlite,vim,neovim,vscode,slack,jira&perline=9&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,bash,linux,arch,git,github,aws,pytorch,mysql,sqlite,vim,neovim,vscode,gcp,ts&perline=9&theme=dark)](https://skillicons.dev)
 
 </div>
-
----
-
-### 🗂️ Projects
-
-<div align="center">
-
-<a href="https://github.com/nickleigh05/NNFS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickleigh05&repo=NNFS&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nickleigh05/LeetCode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickleigh05&repo=LeetCode&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔒 kalshi-terminal | Terminal interface for the Kalshi prediction markets API — in progress | Python |
-| 🔒 CSE360-SP26-PROJ | Group software engineering project @ ASU | Java |
-
-> 🔒 Private repository
-
----
-
-### 🏅 Certifications
-
-| Certification | Status |
-|---|---|
-| AWS Cloud Practitioner | 🔄 In Progress |
-| AWS Solutions Architect – Associate | 🔜 Up Next |
-
----
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nickleigh05&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
+[![Nick's current streak](https://streak-stats.demolab.com/?user=nickleigh05&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nickleigh05&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nickleigh05&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nickleigh05&theme=tokyonight&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nickleigh05&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-### 📌 Currently Working On
-
-- ☁️ AWS fundamentals — IAM, S3, EC2, and more!
-- 🤖 Neural networks & low-level machine learning
-- 📊 Data structures & algorithms via LeetCode
-- 🔐 Binary exploitation & reverse engineering
-
----
 
 <div align="center">
 
