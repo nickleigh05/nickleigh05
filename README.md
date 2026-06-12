@@ -2,7 +2,7 @@
 
 # Hi... I'm Nick <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-A computer science student at **Arizona State University** I'm interested in **Cloud** and **AI/ML**. Currently grinding LeetCode, learning more about AWS, and exploring neural networks! 
+A computer science student at **Arizona State University**, I'm interested in **Cloud** and **AI/ML**. Currently grinding LeetCode, learning more about AWS, and exploring neural networks! 
 
 Please feel free to reach out!
 <br/>
@@ -21,18 +21,21 @@ Please feel free to reach out!
 
 **Professional**
 - 🎓 B.S. Computer Science @ **Arizona State University** (Expected May 2027)
-- ☁️ Interested in **cloud engineering** learning and working with **AWS** and **GCP**. Currently studying for the **AWS Cloud Practitioner** certification
-- 🧩 I enjoy grinding LeetCode you can check that out here: → [My LeetCode Repo](https://github.com/nickleigh05/LeetCode)
+- ☁️ Interested in **cloud engineering**, actively learning and working with **AWS** and **GCP**. Currently studying for the **AWS Cloud Practitioner** certification.
+- 🧩 I enjoy grinding LeetCode; you can check out my progress here: → [My LeetCode Repo](https://github.com/nickleigh05/LeetCode)
 - 🤝 Open to project collaborations
 
 ---
 
 ### 🗂️ Projects
 
-1. [NNFS](https://github.com/nickleigh05/NNFS) — Neural network from scratch in Python
-2. [LeetCode](https://github.com/nickleigh05/LeetCode) — DSA grind in Python
-3. 🔒 kalshi-terminal — Terminal interface for the Kalshi prediction markets API
-4. 🔒 CSE360-SP26-PROJ — Group software engineering project @ ASU
+1. [cloud-collar](https://github.com/nickleigh05/cloud-collar) — Privacy-first edge presence analytics with local YOLOv8 + re-ID inference and serverless AWS backend
+2. [MMA-Machine](https://github.com/nickleigh05/MMA-Machine) — PPO RL MMA simulation with self-play league and 1,000-fighter morphology system
+3. [NNFS](https://github.com/nickleigh05/NNFS) — Neural network from scratch in Python
+4. [nicksnexus](https://github.com/nickleigh05/nicksnexus) — Personal site built with TypeScript
+5. [LeetCode](https://github.com/nickleigh05/LeetCode) — DSA grind in Python
+6. 🔒 kalshi-terminal — Terminal interface for the Kalshi prediction markets API
+7. 🔒 CSE360-SP26-PROJ — Group software engineering project @ ASU
 
 > 🔒 Private repository
 
