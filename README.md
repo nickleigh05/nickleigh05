@@ -11,6 +11,7 @@ Please feel free to reach out!
 [![GitHub](https://img.shields.io/badge/GitHub-nickleigh05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nickleigh05)
 [![Gmail](https://img.shields.io/badge/Gmail-nickleigh05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickleigh05@gmail.com)
 [![iCloud](https://img.shields.io/badge/iCloud-nickleigh05%40icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:nickleigh05@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nicksnexus-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://nickleigh05.github.io/nicksnexus/)
 ![Profile Views](https://komarev.com/ghpvc/?username=nickleigh05&style=for-the-badge&color=blueviolet&label=Profile+Views)
 
 </div>
@@ -32,7 +33,7 @@ Please feel free to reach out!
 1. [cloud-collar](https://github.com/nickleigh05/cloud-collar) — Privacy-first edge presence analytics with local YOLOv8 + re-ID inference and serverless AWS backend
 2. [MMA-Machine](https://github.com/nickleigh05/MMA-Machine) — PPO RL MMA simulation with self-play league and 1,000-fighter morphology system
 3. [NNFS](https://github.com/nickleigh05/NNFS) — Neural network from scratch in Python
-4. [nicksnexus](https://github.com/nickleigh05/nicksnexus) — Personal site built with TypeScript
+4. [nicksnexus](https://nickleigh05.github.io/nicksnexus/) — Personal site built with TypeScript
 5. [LeetCode](https://github.com/nickleigh05/LeetCode) — DSA grind in Python
 6. 🔒 kalshi-terminal — Terminal interface for the Kalshi prediction markets API
 7. 🔒 CSE360-SP26-PROJ — Group software engineering project @ ASU
