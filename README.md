@@ -26,6 +26,8 @@ Please feel free to reach out!
 
 <br/><br/>
 
+In your terminal run:
+
 ```
 npx nickleigh05
 ```
