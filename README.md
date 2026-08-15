@@ -1,38 +1,30 @@
 <div align="">
 
 ```
-    _   ___      __      __         _       __  
-   / | / (_)____/ /__   / /   ___  (_)___ _/ /_ 
-  /  |/ / / ___/ //_/  / /   / _ \/ / __ `/ __ \
- / /|  / / /__/ ,<    / /___/  __/ / /_/ / / / /
-/_/ |_/_/\___/_/|_|  /_____/\___/_/\__, /_/ /_/ 
-                                  /____/        
+    __  __              ____             _   ___      __      __         _       __  
+   / / / /__  __  __   /  _/___ ___     / | / (_)____/ /__   / /   ___  (_)___ _/ /_ 
+  / /_/ / _ \/ / / /   / // __ `__ \   /  |/ / / ___/ //_/  / /   / _ \/ / __ `/ __ \
+ / __  /  __/ /_/ /  _/ // / / / / /  / /|  / / /__/ ,<    / /___/  __/ / /_/ / / / /
+/_/ /_/\___/\__, /  /___/_/ /_/ /_/  /_/ |_/_/\___/_/|_|  /_____/\___/_/\__, /_/ /_/ 
+           /____/                                                      /____/        
 ```
-
-# Hey, I'm Nick
 
 I am computer science student at **Arizona State University**, I'm interested in **Cloud** and **AI/ML**. When I am not messing with my config files and dealing with wayland errors I am usally grinding LeetCode, learning more about AWS, and exploring neural networks! 
 
-Please feel free to reach out!
+If you'd like to learn more about me please take a look at my linkedin and personal website. Reach out and connect!
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicholas--leigh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-nicholas-leigh)
 [![Gmail](https://img.shields.io/badge/Gmail-nickleigh05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickleigh05@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nicksnexus-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://nickleigh05.github.io/nicksnexus/)
 
+---
+
 <br/>
-
-<img src="assets/terminal.svg" alt="live terminal" width="640"/>
-
-<br/><br/>
 
 In your terminal run:
 
-```
-npx nickleigh05
-```
-
-</div>
+<img src="assets/terminal.svg" alt="live terminal" width="640"/>
 
 ### 🗂️ Projects
 

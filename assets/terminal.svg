@@ -1,84 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="264" viewBox="0 0 640 264">
-  <rect width="640" height="264" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
-  <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
-  <circle cx="64" cy="20" r="6" fill="#27c93f"/>
-  <text x="320.0" y="24" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e" text-anchor="middle">nick@github</text>
-  <defs>
-    <clipPath id="clip0">
-      <rect x="0" y="0" height="22" width="0">
-        <animate attributeName="width" from="0" to="67.2"
-          begin="0.00s" dur="0.30s" fill="freeze" calcMode="linear"/>
-      </rect>
-    </clipPath>
-    <text x="18" y="57" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"
-      fill="#39d353" clip-path="url(#clip0)">$ whoami</text>
-    <clipPath id="clip1">
-      <rect x="0" y="0" height="22" width="0">
-        <animate attributeName="width" from="0" to="243.6"
-          begin="0.42s" dur="0.81s" fill="freeze" calcMode="linear"/>
-      </rect>
-    </clipPath>
-    <text x="18" y="79" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"
-      fill="#c9d1d9" clip-path="url(#clip1)">nick — ASU CS · cloud + AI/ML</text>
-    <clipPath id="clip2">
-      <rect x="0" y="0" height="22" width="0">
-        <animate attributeName="width" from="0" to="184.8"
-          begin="1.35s" dur="0.62s" fill="freeze" calcMode="linear"/>
-      </rect>
-    </clipPath>
-    <text x="18" y="101" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"
-      fill="#39d353" clip-path="url(#clip2)">$ tail -f activity.log</text>
-    <clipPath id="clip3">
-      <rect x="0" y="0" height="22" width="0">
-        <animate attributeName="width" from="0" to="310.8"
-          begin="2.09s" dur="1.04s" fill="freeze" calcMode="linear"/>
-      </rect>
-    </clipPath>
-    <text x="18" y="123" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"
-      fill="#8b949e" clip-path="url(#clip3)">[cloud-collar]  little readme updates</text>
-    <clipPath id="clip4">
-      <rect x="0" y="0" height="22" width="0">
-        <animate attributeName="width" from="0" to="537.6"
-          begin="3.24s" dur="1.79s" fill="freeze" calcMode="linear"/>
-      </rect>
-    </clipPath>
-    <text x="18" y="145" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"
-      fill="#8b949e" clip-path="url(#clip4)">[MMA-Machine]   Merge pull request #2 from nickleigh05/humanoids</text>
-    <clipPath id="clip5">
-      <rect x="0" y="0" height="22" width="0">
-        <animate attributeName="width" from="0" to="562.8"
-          begin="5.16s" dur="1.88s" fill="freeze" calcMode="linear"/>
-      </rect>
-    </clipPath>
-    <text x="18" y="167" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"
-      fill="#8b949e" clip-path="url(#clip5)">[NNFS]          Add README for Neural Networks from Scratch project</text>
-    <clipPath id="clip6">
-      <rect x="0" y="0" height="22" width="0">
-        <animate attributeName="width" from="0" to="193.2"
-          begin="7.15s" dur="0.64s" fill="freeze" calcMode="linear"/>
-      </rect>
-    </clipPath>
-    <text x="18" y="189" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"
-      fill="#8b949e" clip-path="url(#clip6)">[nicksnexus]    Updates</text>
-    <clipPath id="clip7">
-      <rect x="0" y="0" height="22" width="0">
-        <animate attributeName="width" from="0" to="67.2"
-          begin="7.92s" dur="0.30s" fill="freeze" calcMode="linear"/>
-      </rect>
-    </clipPath>
-    <text x="18" y="211" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"
-      fill="#39d353" clip-path="url(#clip7)">$ uptime</text>
-    <clipPath id="clip8">
-      <rect x="0" y="0" height="22" width="0">
-        <animate attributeName="width" from="0" to="176.4"
-          begin="8.34s" dur="0.59s" fill="freeze" calcMode="linear"/>
-      </rect>
-    </clipPath>
-    <text x="18" y="233" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"
-      fill="#c9d1d9" clip-path="url(#clip8)">building since 2023 —</text>
-  </defs>
-  <rect x="198.4" y="220" width="8" height="14" fill="#39d353">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="9.04s" repeatCount="indefinite"/>
-  </rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="136" viewBox="0 0 700 136">
+  <style>
+    @keyframes cover { from { width: 246.1px; } to { width: 0; } }
+    .cover {
+      width: 246.1px;
+      animation: cover 1.53s steps(17, end) forwards;
+    }
+    .cursor { animation: blink 1s step-end infinite; animation-delay: 1.53s; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect width="700" height="136" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="34" cy="30" r="9" fill="#ff5f56"/>
+  <circle cx="62" cy="30" r="9" fill="#ffbd2e"/>
+  <circle cx="90" cy="30" r="9" fill="#27c93f"/>
+  <text x="350.0" y="36" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#8b949e" text-anchor="middle">nick@github</text>
+  <text x="30" y="92" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="23" fill="#39d353">$ npx nickleigh05</text>
+  <rect class="cover" x="27" y="65" height="36" fill="#0d1117"/>
+  <rect class="cursor" x="279.1" y="71" width="13" height="23" fill="#39d353"/>
 </svg>
